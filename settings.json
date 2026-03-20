@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Survival-GLEc.aternos.me",
+    "ip": "Survival-GLEc.aternos.me:35683",
     "port": 35683,
     "version": "",
     "try-creative": false
